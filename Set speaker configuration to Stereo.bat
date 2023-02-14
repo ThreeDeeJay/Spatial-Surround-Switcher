@@ -1,0 +1,1 @@
+SoundVolumeView.exe /SetSpeakersConfig "DefaultRenderDevice" 0x3 0x3 0x3

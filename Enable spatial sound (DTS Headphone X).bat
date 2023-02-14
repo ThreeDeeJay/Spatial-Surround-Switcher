@@ -1,0 +1,1 @@
+SoundVolumeView.exe /SetSpatial "DefaultRenderDevice" "DTX Headphone:X"
